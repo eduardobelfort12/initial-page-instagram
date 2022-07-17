@@ -5,3 +5,9 @@
 <div> 
     <img src="../initial-page-instagram/public/img/demo-clone-instagram-page.gif">
 </div>
+
+### **Skills utilizadas/Skills used ** :hammer:
+
+<img src="../initial-page-instagram/public/img/tech-icon.jfif" alt="imagem">
+
+
