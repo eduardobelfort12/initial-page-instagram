@@ -2,7 +2,9 @@
 ## :blue_book:   Repository created for front-end studies based on DIO challenge in bootcamp-impulse-Javascript -clone-Instagram-DIO
 ### :computer: **Preview do projeto/Preview project** 
 
-demo-clone-instagram-page.gif
+<div> 
+    <img src="./assets/demo-clone-instagram-page.gif">
+</div>
 
 ### :red_circle: Sobre o projeto 
 #### É um projeto que faz o clone da página inicial do instagram para estudos de HTML5, CSS, para entender melhor como funciona o FRONT-END, e um pouco de JAVASCRIPT para implementar a função de slides e o dark-mode no **projeto**
@@ -11,8 +13,9 @@ demo-clone-instagram-page.gif
 
 
 ### :hammer: Skills utilizadas/Skills used  
-
-<img src="../initial-page-instagram/public/img/tech-icons.jfif" alt="imagem">
+<div> 
+    <img src="./assets/tech-icon.png">
+</div>
 
 ### :mortar_board: Projeto desenvolvido para estudos/project developed for studies 
 
