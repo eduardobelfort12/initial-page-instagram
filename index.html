@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="./src/css/style.css" rel="stylesheet">
+
+        <title>Initial-page-instagram</title>
+    </head>
+    <body id="body">
+        <div class="dark-mode-button">
+            <span class="icon-brightness">
+                <img src="./public/img/brightnes.png" alt="imagem">
+            </span>
+            <label class="switch">
+                <input type="checkbox" id="dark-mode-btn" onclick="Ativar()">
+                <span class="slider round"></span>
+            </label></div>
+        <div class="instagram-wrapper">
+            <div class="instagram-phone">
+                <img src="./public/img/instagram-smartphone.png" alt="celular">
+                <div id="slides">
+                    <a class="slide active"><img src="./img/slide-01.jpg"
+                            alt="tela 1"></a>
+                    <a class="slide"><img src="./public/img/slide-02.jpg" alt="tela 2"></a>
+                    <a class="slide"><img src="./public/img/slide-03.jpg" alt="tela 3"></a>
+                    <a class="slide"><img src="./public/img/slide-04.jpg" alt="tela 4"></a>
+                    <a class="slide"><img src="./public/img/slide-05.jpg" alt="tela 5"></a>
+                </div>
+            </div>
+
+            <div class="instagram-continue">
+                <img src="./public/img/instagram-logo.png" alt="instagram-logo">
+                <div class="group">
+
+                    <div class="profile-photo">
+                        <img src="./public/img/perfil-instagram.jfif"
+                            alt="perfil-instagram" width="100px" height="100px">
+                    </div>
+                    <a href="#" class="instagram-login">Continue como EduBelfort</a>
+                    <a href="#" class="instagram-logout">Remover conta</a>
+                </div>
+                <div class="group">
+                    <p class="not-account">Não é EduBelfort?</p>
+                    <p class="not-account">
+                        <span class="link-blue">Alternar contas</span>
+                        ou
+                        <span class="link-blue">inscreva-se</span>
+                    </p>
+                </div>
+                <div class="get-the-app">
+                    <p class="get-app">Baixe o aplicativo</p>
+                    <div class="download">
+                        <a href="#" class="app-download"> </a>
+                        <a href="#" class="app-download"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="./src/js/slides,js"></script>
+        <script src="./src/js/darkMode.js"></script>
+    </body>
+</html>
