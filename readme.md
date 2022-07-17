@@ -14,7 +14,7 @@
 
 ### :hammer: Skills utilizadas/Skills used  
 
-<img src="../initial-page-instagram/public/img/tech-icon.png" alt="imagem">
+<img src="../initial-page-instagram/public/img/tech-icons.jfif" alt="imagem">
 
 ### :mortar_board: Projeto desenvolvido para estudos/project developed for studies 
 
