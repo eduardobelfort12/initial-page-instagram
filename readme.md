@@ -3,7 +3,7 @@
 ### :computer: **Preview do projeto/Preview project** 
 
 <div> 
-    <img src="../initial-page-instagram/assets/demo-clone-instagram-page.gif">
+    <img src="../assets/demo-clone-instagram-page.gif">
 </div>
 
 ### :red_circle: Sobre o projeto 
